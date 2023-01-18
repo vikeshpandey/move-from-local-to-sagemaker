@@ -6,7 +6,7 @@ The repository structure contains the following folders:
 
 1. **[Part-1](./Part-1)** : This folder contains the notebook and files related to [Move From Local to Amazon SageMaker - Part 1](#link)
 2. **[Part-2](./Part-2)** : This folder contains the notebook and files related to [Move From Local to Amazon SageMaker - Part 2](#link)
-2. **[Bring Your Own Container](./bring-your-own-container)** : This folder contains the notebook and files related to [Bring Your Own Container to SageMaker](#link)
+2. **[Bring Your Own Container](./bring-you-own-container)** : This folder contains the notebook and files related to [Bring Your Own Container to SageMaker](#link)
 
 If you have any suggestions on the repository or want to report a bug, please submit a bug.
 
